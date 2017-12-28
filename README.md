@@ -1,6 +1,14 @@
 # cooling-down
 Research of cooling water in 5 different containers.
 
+1. Mug thermos with cap ~350 ml
+2. Mug thermos without cap ~300 ml
+3. iron mug 250 ml
+4. ceramic mug 250 ml
+5. plastic glass from Auchan
+
+All mugs were preheated, and then filled with water by 80%.
+
 ## Requirements
 1. Python
 2. Matplolib
